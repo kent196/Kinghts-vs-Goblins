@@ -1,0 +1,724 @@
+fileFormatVersion: 2
+guid: e058c4624cf8a1b4c91a8a2b0542bee4
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: 62a9f0aa5b59740cfbadc7e5f9823bb0, type: 3}
+  textureImporterSettings:
+    alphaSource: 1
+    mipMapMode: 0
+    enableMipMap: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+    convertToNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+    swizzle: 50462976
+    isReadable: 0
+    streamingMipmaps: 0
+    streamingMipmapsPriority: 0
+    vTOnly: 0
+    ignoreMipmapLimit: 0
+    nPOTScale: 1
+    sRGBTexture: 1
+    spriteMode: 2
+    spriteExtrude: 1
+    spriteMeshType: 1
+    alignment: 0
+    spritePivot: {x: 0.5, y: 0.5}
+    spritePixelsToUnits: 100
+    spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+    spriteGenerateFallbackPhysicsShape: 0
+    generateCubemap: 6
+    cubemapConvolution: 0
+    seamlessCubemap: 0
+    alphaIsTransparency: 1
+    spriteTessellationDetail: -1
+    textureType: 8
+    textureShape: 1
+    singleChannelComponent: 0
+    flipbookRows: 0
+    flipbookColumns: 0
+    ignorePngGamma: 0
+    cookieMode: 0
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+    normalMap: 0
+    textureFormat: 0
+    maxTextureSize: 0
+    lightmap: 0
+    compressionQuality: 0
+    linearTexture: 0
+    grayScaleToAlpha: 0
+    rGBM: 0
+    cubemapConvolutionSteps: 0
+    cubemapConvolutionExponent: 0
+    maxTextureSizeSet: 0
+    compressionQualitySet: 0
+    textureFormatSet: 0
+    applyGammaDecoding: 0
+  previousAsepriteImporterSettings:
+    fileImportMode: 1
+    importHiddenLayers: 0
+    layerImportMode: 1
+    defaultPivotSpace: 0
+    defaultPivotAlignment: 7
+    customPivotPosition: {x: 0.5, y: 0.5}
+    spritePadding: 0
+    generateModelPrefab: 1
+    generateAnimationClips: 1
+    addSortingGroup: 1
+    addShadowCasters: 0
+  asepriteImporterSettings:
+    fileImportMode: 1
+    importHiddenLayers: 0
+    layerImportMode: 1
+    defaultPivotSpace: 0
+    defaultPivotAlignment: 7
+    customPivotPosition: {x: 0.5, y: 0.5}
+    spritePadding: 0
+    generateModelPrefab: 1
+    generateAnimationClips: 1
+    addSortingGroup: 1
+    addShadowCasters: 0
+  importFileNodeState: 1
+  platformSettingsDirtyTick: 0
+  textureAssetName: 
+  singleSpriteImportData:
+  - name: 
+    originalName: 
+    pivot: {x: 0, y: 0}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    spriteID: 
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 0, y: 0}
+  animatedSpriteImportData:
+  - name: Barrel_Blue_Frame_0
+    originalName: 
+    pivot: {x: 0.5, y: -0.41428572}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 181
+      y: 321
+      width: 50
+      height: 70
+    spriteID: 84d4c7a808e1ec24abbce1b6b0a318e7
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 181, y: 321}
+  - name: Barrel_Blue_Frame_1
+    originalName: 
+    pivot: {x: 0.5, y: -0.41428572}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 181
+      y: 399
+      width: 50
+      height: 70
+    spriteID: aea16f2a045fb7648bd4b5e21ada49c9
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 181, y: 399}
+  - name: Barrel_Blue_Frame_2
+    originalName: 
+    pivot: {x: 0.5, y: -0.4677419}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 243
+      y: 4
+      width: 58
+      height: 62
+    spriteID: 1f5f830c838cd8e43a7107b4f179752f
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 243, y: 4}
+  - name: Barrel_Blue_Frame_3
+    originalName: 
+    pivot: {x: 0.5, y: -0.29761904}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 181
+      y: 229
+      width: 42
+      height: 84
+    spriteID: 31b71b8497e6f8b44b67eb9c3f8b0e26
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 181, y: 229}
+  - name: Barrel_Blue_Frame_4
+    originalName: 
+    pivot: {x: 0.5, y: -0.26881722}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 4
+      width: 50
+      height: 93
+    spriteID: 535f6940148defd47bfc90ada85b826c
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 4}
+  - name: Barrel_Blue_Frame_5
+    originalName: 
+    pivot: {x: 0.5, y: -0.3880597}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 181
+      y: 4
+      width: 54
+      height: 67
+    spriteID: 2d2fc4740545c264d886aafc33fc326c
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 181, y: 4}
+  - name: Barrel_Blue_Frame_6
+    originalName: 
+    pivot: {x: 0.5, y: -0.32500002}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 62
+      y: 181
+      width: 50
+      height: 80
+    spriteID: 86f3c298181e11a40a519508a241d74b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 62, y: 181}
+  - name: Barrel_Blue_Frame_7
+    originalName: 
+    pivot: {x: 0.5, y: -0.313253}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 294
+      width: 50
+      height: 83
+    spriteID: 22d1492821c2c8547a43ccb989e9cc31
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 294}
+  - name: Barrel_Blue_Frame_8
+    originalName: 
+    pivot: {x: 0.5, y: -0.313253}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 385
+      width: 50
+      height: 83
+    spriteID: 1439cacb555628d4dbf03ebd33b0426c
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 385}
+  - name: Barrel_Blue_Frame_9
+    originalName: 
+    pivot: {x: 0.5, y: -0.3880597}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 181
+      y: 79
+      width: 54
+      height: 67
+    spriteID: 7ede6214fd42fb34aa1853a49d255ce3
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 181, y: 79}
+  - name: Barrel_Blue_Frame_10
+    originalName: 
+    pivot: {x: 0.5, y: -0.28089887}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 105
+      width: 50
+      height: 89
+    spriteID: acf4b6a2e2a617049aad0e229fd4b675
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 105}
+  - name: Barrel_Blue_Frame_11
+    originalName: 
+    pivot: {x: 0.5, y: -0.2631579}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 62
+      y: 269
+      width: 42
+      height: 95
+    spriteID: e29e75bfbcfabda40be7d5bc281a9d7a
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 62, y: 269}
+  - name: Barrel_Blue_Frame_12
+    originalName: 
+    pivot: {x: 0.5, y: -0.4677419}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 243
+      y: 74
+      width: 58
+      height: 62
+    spriteID: 24c904bfa8c43534a8f7c7467ebac626
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 243, y: 74}
+  - name: Barrel_Blue_Frame_13
+    originalName: 
+    pivot: {x: 0.51111114, y: -0.38157895}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 243
+      y: 222
+      width: 45
+      height: 76
+    spriteID: 59f9596c57f3a9c41bee109d05f369d2
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 243, y: 222}
+  - name: Barrel_Blue_Frame_14
+    originalName: 
+    pivot: {x: 0.5, y: -0.41428572}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 243
+      y: 144
+      width: 50
+      height: 70
+    spriteID: 109930376f5894842b79d6c91d1db7ef
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 243, y: 144}
+  - name: Barrel_Blue_Frame_15
+    originalName: 
+    pivot: {x: 0.5, y: -0.3880597}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 181
+      y: 154
+      width: 54
+      height: 67
+    spriteID: 949b7e8b3ce4d724296a131422ca88db
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 181, y: 154}
+  - name: Barrel_Blue_Frame_16
+    originalName: 
+    pivot: {x: 0.5, y: -0.29761904}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 202
+      width: 50
+      height: 84
+    spriteID: 196ebaa6dd44754438811abddf3fbe9f
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 202}
+  - name: Barrel_Blue_Frame_17
+    originalName: 
+    pivot: {x: 0.5, y: -0.29069766}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 62
+      y: 87
+      width: 48
+      height: 86
+    spriteID: 0e9abecbf02820c4e8dc5ae14ba9da42
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 62, y: 87}
+  - name: Barrel_Blue_Frame_18
+    originalName: 
+    pivot: {x: 0.50877196, y: -0.3866667}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 62
+      y: 4
+      width: 57
+      height: 75
+    spriteID: 56ef18e48b40265478261e5ecc180a14
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 62, y: 4}
+  - name: Barrel_Blue_Frame_19
+    originalName: 
+    pivot: {x: 0.5, y: -0.36708862}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 127
+      y: 4
+      width: 46
+      height: 79
+    spriteID: 45cdb4544c71e3743bd555325542e1dc
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 127, y: 4}
+  - name: Barrel_Blue_Frame_20
+    originalName: 
+    pivot: {x: 0.5, y: -0.36708862}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 62
+      y: 372
+      width: 50
+      height: 79
+    spriteID: 39fb0e6bc3ce32d4090f41b53915309e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 62, y: 372}
+  spriteSheetImportData: []
+  asepriteLayers:
+  - layerIndex: 0
+    guid: -976433221
+    name: Barrel_Blue
+    layerFlags: 0
+    layerType: 0
+    blendMode: 0
+    cells:
+    - name: Barrel_Blue_Frame_0
+      frameIndex: 0
+      cellRect:
+        x: 39
+        y: 29
+        width: 50
+        height: 70
+      spriteId: 84d4c7a808e1ec24abbce1b6b0a318e7
+    - name: Barrel_Blue_Frame_1
+      frameIndex: 1
+      cellRect:
+        x: 39
+        y: 29
+        width: 50
+        height: 70
+      spriteId: aea16f2a045fb7648bd4b5e21ada49c9
+    - name: Barrel_Blue_Frame_2
+      frameIndex: 2
+      cellRect:
+        x: 35
+        y: 29
+        width: 58
+        height: 62
+      spriteId: 1f5f830c838cd8e43a7107b4f179752f
+    - name: Barrel_Blue_Frame_3
+      frameIndex: 3
+      cellRect:
+        x: 43
+        y: 25
+        width: 42
+        height: 84
+      spriteId: 31b71b8497e6f8b44b67eb9c3f8b0e26
+    - name: Barrel_Blue_Frame_4
+      frameIndex: 4
+      cellRect:
+        x: 39
+        y: 25
+        width: 50
+        height: 93
+      spriteId: 535f6940148defd47bfc90ada85b826c
+    - name: Barrel_Blue_Frame_5
+      frameIndex: 5
+      cellRect:
+        x: 37
+        y: 26
+        width: 54
+        height: 67
+      spriteId: 2d2fc4740545c264d886aafc33fc326c
+    - name: Barrel_Blue_Frame_6
+      frameIndex: 6
+      cellRect:
+        x: 39
+        y: 26
+        width: 50
+        height: 80
+      spriteId: 86f3c298181e11a40a519508a241d74b
+    - name: Barrel_Blue_Frame_7
+      frameIndex: 7
+      cellRect:
+        x: 39
+        y: 26
+        width: 50
+        height: 83
+      spriteId: 22d1492821c2c8547a43ccb989e9cc31
+    - name: Barrel_Blue_Frame_8
+      frameIndex: 8
+      cellRect:
+        x: 39
+        y: 26
+        width: 50
+        height: 83
+      spriteId: 1439cacb555628d4dbf03ebd33b0426c
+    - name: Barrel_Blue_Frame_9
+      frameIndex: 9
+      cellRect:
+        x: 37
+        y: 26
+        width: 54
+        height: 67
+      spriteId: 7ede6214fd42fb34aa1853a49d255ce3
+    - name: Barrel_Blue_Frame_10
+      frameIndex: 10
+      cellRect:
+        x: 39
+        y: 25
+        width: 50
+        height: 89
+      spriteId: acf4b6a2e2a617049aad0e229fd4b675
+    - name: Barrel_Blue_Frame_11
+      frameIndex: 11
+      cellRect:
+        x: 43
+        y: 25
+        width: 42
+        height: 95
+      spriteId: e29e75bfbcfabda40be7d5bc281a9d7a
+    - name: Barrel_Blue_Frame_12
+      frameIndex: 12
+      cellRect:
+        x: 35
+        y: 29
+        width: 58
+        height: 62
+      spriteId: 24c904bfa8c43534a8f7c7467ebac626
+    - name: Barrel_Blue_Frame_13
+      frameIndex: 13
+      cellRect:
+        x: 41
+        y: 29
+        width: 45
+        height: 76
+      spriteId: 59f9596c57f3a9c41bee109d05f369d2
+    - name: Barrel_Blue_Frame_14
+      frameIndex: 14
+      cellRect:
+        x: 39
+        y: 29
+        width: 50
+        height: 70
+      spriteId: 109930376f5894842b79d6c91d1db7ef
+    - name: Barrel_Blue_Frame_15
+      frameIndex: 15
+      cellRect:
+        x: 37
+        y: 26
+        width: 54
+        height: 67
+      spriteId: 949b7e8b3ce4d724296a131422ca88db
+    - name: Barrel_Blue_Frame_16
+      frameIndex: 16
+      cellRect:
+        x: 39
+        y: 25
+        width: 50
+        height: 84
+      spriteId: 196ebaa6dd44754438811abddf3fbe9f
+    - name: Barrel_Blue_Frame_17
+      frameIndex: 17
+      cellRect:
+        x: 40
+        y: 25
+        width: 48
+        height: 86
+      spriteId: 0e9abecbf02820c4e8dc5ae14ba9da42
+    - name: Barrel_Blue_Frame_18
+      frameIndex: 18
+      cellRect:
+        x: 35
+        y: 29
+        width: 57
+        height: 75
+      spriteId: 56ef18e48b40265478261e5ecc180a14
+    - name: Barrel_Blue_Frame_19
+      frameIndex: 19
+      cellRect:
+        x: 41
+        y: 29
+        width: 46
+        height: 79
+      spriteId: 45cdb4544c71e3743bd555325542e1dc
+    - name: Barrel_Blue_Frame_20
+      frameIndex: 20
+      cellRect:
+        x: 39
+        y: 29
+        width: 50
+        height: 79
+      spriteId: 39fb0e6bc3ce32d4090f41b53915309e
+    linkedCells: []
+    parentIndex: -1
+  platformSettings: []
+  secondarySpriteTextures: []
+  spritePackingTag: 
+  canvasSize: {x: 128, y: 128}
